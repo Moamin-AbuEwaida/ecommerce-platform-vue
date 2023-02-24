@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkecommerce_platform_vue"]=self["webpackChunkecommerce_platform_vue"]||[]).push([[443],{7750:function(e,t,u){u.r(t),u.d(t,{default:function(){return l}});var n=function(){var e=this;e._self._c;return e._m(0)},r=[function(){var e=this,t=e._self._c;return t("div",{staticClass:"about"},[t("h1",[e._v("This is an about page")])])}],s=u(1001),a={},c=(0,s.Z)(a,n,r,!1,null,null,null),l=c.exports}}]);
+//# sourceMappingURL=about.7643a4d6.js.map
